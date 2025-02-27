@@ -1,11 +1,11 @@
 # Template
 
-TypeScript
-Vite
-React
-Redux + toolkit
-Redux persist (opt)
-MUI
-Axios
-Formil + Yup
-Vercel (vercel.json)
+- TypeScript
+- Vite
+- React
+- Redux + toolkit
+- Redux persist (opt)
+- MUI
+- Axios
+- Formil + Yup
+- Vercel (vercel.json)
