@@ -9,3 +9,7 @@
 - Axios
 - Formil + Yup
 - Vercel (vercel.json)
+
+`git clone`
+`npm i`
+`npm run dev`
